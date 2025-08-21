@@ -1,4 +1,4 @@
 # practice-demo
 This is my first git repository.
 <br>
-Author-Asmita Kardile.
+Author-Asmita Kardile(IT student).
